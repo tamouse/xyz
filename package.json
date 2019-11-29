@@ -1,0 +1,14 @@
+{
+  "name": "xyz",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Tamara Temple",
+    "email": "tamouse@gmail.com",
+    "url": ""
+  },
+  "description": "No description for xyz",
+  "homepage": "",
+  "license": "MIT",
+  "repository": "tamouse/xyz"
+}
